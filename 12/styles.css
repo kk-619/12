@@ -1,0 +1,22 @@
+
+    label {
+      display: block;
+      margin-top: 10px;
+    }
+
+    input[type="text"],
+    input[type="password"],
+    input[type="email"],
+    textarea {
+      width: 300px;
+      padding: 5px;
+    }
+
+    select {
+      width: 100px;
+      padding: 5px;
+    }
+
+    textarea {
+      height: 100px;
+    }
